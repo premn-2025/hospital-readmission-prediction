@@ -30,10 +30,6 @@ modified_diabetes1205_beforeEDA.csv
 
 smote_data.csv
 
-### Summary of the Numerical Features
-
-![Numerical_features](https://github.com/premn-2025/hospital_readmission_prediction/blob/master/Numerical_features.png)
-
  
 ### Refernece
 
